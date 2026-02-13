@@ -45,7 +45,7 @@ let yesScale = 1;
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeeee!";
+    title.textContent = "Yippeeeeeeeeeeeeeeeeeeeeeeeeeeee i lob you eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!";
 
     catImg.src = "cat_dance.gif";
 
